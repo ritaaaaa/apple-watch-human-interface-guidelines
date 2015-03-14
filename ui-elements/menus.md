@@ -2,7 +2,7 @@
 
 在 Apple Watch 的 Retina 屏上使用 Force Touch 手势能够触发当前屏幕的情景菜单，在不占用界面空间的同时，菜单中存储了与当前屏幕相关的 Action。
 
-！[image](../images/menu_stopwatch_2x.png)
+![image](../images/menu_stopwatch_2x.png)
 
 * 菜单展示了 1 到 4 项适用于当前屏幕相关的操作。
 * 菜单中所展示的操作按照添加的顺序从上至下、从左向右排列。
