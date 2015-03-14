@@ -40,7 +40,7 @@
     </tbody>
 </table>
 
-除了 WatchKit app 使用的 icon 之外，运行在用户 iPhone 上的 Apple Watch app 也需要一个相应的 icon。Table 20-2 列出了这些icon 资源的尺寸（以像素为单位）。同样，必须根据给定的尺寸创建图片资源。（注意：Xcode 中的 icon 尺寸是点）
+除了 WatchKit app 使用的 icon 之外，运行在用户 iPhone 上的 Apple Watch app 也需要一个相应的 icon。Table 20-2 列出了这些 icon 资源的尺寸（以像素为单位）。同样，必须根据给定的尺寸创建图片资源。（注意：Xcode 中的 icon 尺寸是点）
 
 **Table 20-2** Icon sizes for use by Apple Watch app on iPhone
 <table>
@@ -62,10 +62,10 @@
 
 **对于所有的图片和 icon 来说，请使用 PNG 格式**，避免使用交叉处理的 PNG 图片。你可以使用带有索引颜色的 PNG 图片，以便节省图片文件中的空间。
 
-**Icon 和图片必须使用标准色深（bit depth）**，标准色深(bit depth)为 24 位，也就是红、绿、蓝色各占用 8 位。icon 中不允许包含alpha channel。
+**Icon 和图片必须使用标准色深（bit depth）**，标准色深(bit depth)为 24 位，也就是红、绿、蓝色各占用 8 位。icon 中不允许包含 alpha channel。
 
 ##主屏幕上的icon
-Apple Watch 的主屏幕非常独特，但也让人感到熟悉。主屏幕上的 icon 类似于 iOS app，但是不附带文本。在如此小的尺寸上，icon 必须清晰易于辨认，便于用户知道他们代表什么应用。如果 WatchKit app 的功能与其 iOS 上的 app 非常相似，那么icon要在视觉上保持一致。如果WatchKit app扮演的是辅助角色或者是 iOS app 的控制器时，icon 可以相应地有所不同。
+Apple Watch 的主屏幕非常独特，但也让人感到熟悉。主屏幕上的 icon 类似于 iOS app，但是不附带文本。在如此小的尺寸上，icon 必须清晰易于辨认，便于用户知道他们代表什么应用。如果 WatchKit app 的功能与其 iOS 上的 app 非常相似，那么 icon 要在视觉上保持一致。如果 WatchKit app 扮演的是辅助角色或者是 iOS app 的控制器时，icon 可以相应地有所不同。
 
 **为了得到最佳效果，可以向专业平面设计师寻求帮助。**经验丰富的平面设计师可以帮助你打造 app 的整体视觉风格，并将该其应用到所有的 icon 和图片上。
 
