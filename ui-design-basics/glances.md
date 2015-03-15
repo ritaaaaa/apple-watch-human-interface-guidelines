@@ -1,15 +1,16 @@
-# Apple Watch Human Interface Guidelines 中文版
+# 预览界面 - Glances
 
-Apple 官方文档（英文原版）：
-https://developer.apple.com/library/prerelease/ios/documentation/UserExperience/Conceptual/WatchHumanInterfaceGuidelines/index.html
+纵观那些穿戴设备使用者们最喜欢的 app ，预览界面都集合了最新的消息和与之相关的其他信息。换句话说，预览界面中展示的信息应该是你 app 中最重要的内容。预览界面的底部需要预留出来给导航栏。
 
-## 目的
+![image](../images/glances_2x.png)
 
-翻译 Apple 官方文档，目录见文件「TOC.md」
+预览界面的特征：
+* **基于模板的。**预览界面的上下部分有不同的模板。使用 Xcode 来选择你想用的模板然后根据需要设计内容。
+* **不能滑动的。**所有的信息必须呈现在一个界面内。
+* **可选的。**并不是所有的app都需要预览，并且用户有权利选择是否使用你的预览界面。
 
-## 操作示例
+**根据用户当前的状态及时更新你的预览数据。**陈旧的和无关的信息会令你的预览界面失去价值。使用当前时间和地理位置来反应用户的变化。
 
-https://github.com/JikeXueyuanWiki/guide
+**Leverage Handoff 在 WatchKit app 中的深层连接。**预览功能使用 Handoff 来通知 app 当用户点击时预览界面的内容。WatchKit 便可以利用这个信息来调整 app 首页的内容。
 
-
-
+**为用户提供有用的内容。**不要使你的预览界面成为你 app 的宣传页，做些有利于用户的东西。
