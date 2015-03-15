@@ -6,6 +6,7 @@ Apple Watch 的通知功能为本地和远程通知提供了更为快捷，轻�
 ##短通知界面（Short-Look Notifications）
 短界面可以让用户知晓哪款应用程序收到了通知，并只作简略展示。短界面是基于模板的，包含 app 的名称、标志以及通知标题。系统使用 app 的主色展示 app 的名称。
 ![shortlook_calendar_2x](../images/shortlook_calendar_2x.png)
+
 **保持标题简短，重点突出。** 屏幕上留给标题的可用空间很小，所以要尽可能的保证标题简洁、直切要点。标题并不提供通知的细节，只提供一个简短的提示。
 
 ##自定义长通知界面（Custom Long-Look Notifications）
