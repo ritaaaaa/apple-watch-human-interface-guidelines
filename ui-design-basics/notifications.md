@@ -11,8 +11,11 @@ Apple Watch 的通知功能为本地和远程通知提供了更为快捷，轻�
 ##自定义长通知界面（Custom Long-Look Notifications）
 长界面提供了到达通知的更多细节。系统提供了默认的长界面外观，但你可以自行定义包含自己的图形和品牌的自定义长界面。长界面对所有 app 使用一样的结构，在界面顶部，系统提供了用以展示 app  标志和 app 名称的肩形标题栏（sash），界面底部是一个解除按钮，中间是你的自定义内容和任意 app 专有的动作按钮。
 ![longlook_calendar_2x](../images/longlook_calendar_2x.png)
+
 **提供静态界面（static interface ）并恰当的提供动态界面（dynamicinterface）。**动态界面比静态界面更具配置性，但两者都能用你的自定义图形和品牌展示相同的通知类型。另外，当动态界面不可用时，静态界面提供了退路。
+
 **最多显示4个自定义操作按钮 （custom action button）。**  Apple Watch 利用被你的 iOS app 认证过的交互式通知在长界面展示操作按钮。自定义操作按钮会根据通知的类型自动展开，除此之外还会显示系统提供的解除按钮。
+
 **设置与你的品牌相配的肩形标题栏（sash）颜色。**可在自定义界面配置肩形标题栏（sash）的配色和不透明度。
 
 关于静态和动态界面，及如何配置操作按钮的更多内容，请参看 [WatchKit Programming Guide](https://developer.apple.com/library/prerelease/ios/documentation/General/Conceptual/WatchKitProgrammingGuide/index.html#//apple_ref/doc/uid/TP40014969)
