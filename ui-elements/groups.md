@@ -1,15 +1,16 @@
-# Apple Watch Human Interface Guidelines 中文版
+# 组 — Groups
 
-Apple 官方文档（英文原版）：
-https://developer.apple.com/library/prerelease/ios/documentation/UserExperience/Conceptual/WatchHumanInterfaceGuidelines/index.html
+组对于在你的界面上布局内容是一个重要的工具。组是其他对象的容器。一个组没有一个自己默认的外观但是可以被配置一个自定义的背景颜色或图片。组也可以用来指定位置，大小，边距以及其他和布局相关的属性。
 
-## 目的
+对于一个组：
+* 可以水平或垂直布局控件
+* 可以包含一个甚至多个界面的元素
+* 可以指定边距和间距
+* 可以显示一张图片或固定的颜色作为背景
+* 可以设置它的背景或内容的圆角
 
-翻译 Apple 官方文档，目录见文件「TOC.md」
+组是管理布局的首要工具。然而，因为一个组可以有一个背景颜色或图片，所以你也可以把它当做一个虚拟的元素。
 
-## 操作示例
+**组的相互嵌套可以创建复杂的布局。**你可以使用嵌套组的方式使一些控件水平布局或垂直布局。你也可以使用嵌套组来利用外层组的边距和间距的设置
 
-https://github.com/JikeXueyuanWiki/guide
-
-
-
+**为每个 Apple Watch 显示器指定合适的背景图片的大小。**尽可能使用一个单一的图片资源，但是如果效果很差时不要为了适应不同的屏幕尺寸而拉伸或压缩图片。相反，提供适合设备像素大小的图片资源。
