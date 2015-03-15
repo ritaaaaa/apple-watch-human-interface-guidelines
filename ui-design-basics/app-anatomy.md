@@ -25,7 +25,7 @@ WatchKit apps支持两种导航：
   * 水平滑动用于在翻页模式翻页。
   * 向左滑动返回上一级界面。
 
-    Apple Watch不支持多指手势。
+  Apple Watch不支持多指手势。
 
 * **Force Touch。**就像感应触控，Retina 屏幕也可以探测到用户手指的接近。当系统感应到手指，它会播出和当前页面内容有关的背景菜单。 App 使用这种方法展现和当前内容相关的信息。
 想了解更多菜单，请点击 [Menus](https://developer.apple.com/library/prerelease/ios/documentation/UserExperience/Conceptual/WatchHumanInterfaceGuidelines/Menus.html#//apple_ref/doc/uid/TP40014992-CH14-SW1) 。
