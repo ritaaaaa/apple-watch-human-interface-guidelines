@@ -1,4 +1,4 @@
-- UI Design Basics   
+- UI设计基础 - UI Design Basics   
  - 设计您的Apple Watch应用 - [Designing for Apple Watch](ui-design-basics/designing-for-apple-watch.md) （[zhenglu951107950](https://github.com/zhenglu951107950) done）   
  - App详解 - [App Anatomy](ui-design-basics/app-anatomy.md) （[zhenglu951107950](https://github.com/zhenglu951107950) done）  
  - 预览界面 - [Glances](ui-design-basics/glances.md) （[zhenglu951107950](https://github.com/zhenglu951107950) done）  
@@ -8,7 +8,7 @@
  - 待添加章节的中文翻译 - [Color and Typography](ui-design-basics/color-and-typography.md) （[andguoan](https://github.com/andguoan) 已认领）  
  - 待添加章节的中文翻译 - [Animations](ui-design-basics/animations.md) （[andguoan](https://github.com/andguoan) 已认领）
  - 待添加章节的中文翻译 - [Branding](ui-design-basics/branding.md) （[andguoan](https://github.com/andguoan) 已认领）
-- UI Elements
+- UI元素 - UI Elements
  - 标签 - [Labels](ui-elements/labels.md) （[icodeu](https://github.com/icodeu) done）  
  - 图像 - [Images](ui-elements/images.md) （[icodeu](https://github.com/icodeu) done）  
  - 组 - [Groups](ui-elements/groups.md) （[icodeu](https://github.com/icodeu) done）  
@@ -19,6 +19,6 @@
  - 地图 - [Maps](ui-elements/maps.md) （[katzhb](https://github.com/katzhb) done）  
  - 日期和计时器 - [Dates and Timers](ui-elements/dates-and-timers.md) （[katzhb](https://github.com/katzhb) done）  
  - 菜单 - [Menus](ui-elements/menus.md)  （[zqvan](https://github.com/zqvan) done）  
-- Icon and Image Design
+- 图标和图片设计 - Icon and Image Design
  - Icon 与图片尺寸 - [Icon and Image Sizes](icon-and-image-design/icon-and-image-sizes.md)  （[zqvan](https://github.com/zqvan) done）  
  - 菜单图片 - [Menu Images](icon-and-image-design/menu-images.md)  （[zqvan](https://github.com/zqvan) done）  
