@@ -1,15 +1,18 @@
-# Apple Watch Human Interface Guidelines 中文版
+# 地图 - Maps 
 
-Apple 官方文档（英文原版）：
-https://developer.apple.com/library/prerelease/ios/documentation/UserExperience/Conceptual/WatchHumanInterfaceGuidelines/index.html
+使用地图可以向用户展示地理位置相关信息。Apple Watch 上的地图是静态快照，不能使之在应用中进行交互，点击地图图标则会打开 Maps app 。
 
-## 目的
+**配置地图区域使之成为包含相关位置的最小范围。**在展示地图之前，WatchKit 扩展以编程形式设置地图范围。它会选择一个包含所有需要的兴趣点信息的区域，并且该区域对用户来说是最小但最有用的区域。
 
-翻译 Apple 官方文档，目录见文件「TOC.md」
+**请不要设置地图的尺寸超过可用内容区域。**地图对象的尺寸要匹配 Apple Watch 的屏幕规格，使用户无需额外滚屏就可以看到整个地图。
 
-## 操作示例
+**使用注释来高亮标注地图上的位置。**注释是展示在地图之上的图片，用来标记位置或者显示信息。地图展示的注释不能超过5个。
 
-https://github.com/JikeXueyuanWiki/guide
+地图针对绿色、红色以及紫色三种图钉提供了内置的支持。
 
+![image](../images/map_pin_2x.png)
 
+你也可以使用自定义图片创建注释。WatchKit 扩展可相对于地图坐标调整图片的布局，从而让你将图片放在地点位置旁或者地点位置上。
+
+![image](../images/map_image_2x.png)
 
