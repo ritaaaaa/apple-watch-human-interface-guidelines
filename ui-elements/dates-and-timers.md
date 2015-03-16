@@ -1,15 +1,26 @@
-# Apple Watch Human Interface Guidelines 中文版
+# 日期和计时器 - Dates and Timers 
 
-Apple 官方文档（英文原版）：
-https://developer.apple.com/library/prerelease/ios/documentation/UserExperience/Conceptual/WatchHumanInterfaceGuidelines/index.html
+日期与计时器对象是 Apple Watch 上用来显示与时间相关的值的特定标签。
 
-## 目的
+##日期标签
 
-翻译 Apple 官方文档，目录见文件「TOC.md」
+日期标签的特性：
+* 展示日期、时间或者两者的组合。
+* 可配置使用多种格式、日历以及时区形式来显示时间。
+* 无需通过WatchKit 扩展更新。
 
-## 操作示例
+**当你想要展示当前日期或时间的任何时候，都可以使用日期对象。**
 
-https://github.com/JikeXueyuanWiki/guide
+##计时器标签
+
+![image](../images/timer_labels_2x.png)
+
+计时器标签特性如下：
+* 从指定的时间倒计时或者从指定时间开始计时。
+* 可配置使用多种格式显示计数值。
+* 无需通过WatchKit 扩展更新。
+
+**通常使用一个计时器标签来精确地进行计时或倒计时。**
 
 
 
