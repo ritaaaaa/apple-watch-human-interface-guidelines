@@ -1,7 +1,7 @@
 - UI Design Basics   
- - 待添加章节的中文翻译 - [Designing for Apple Watch](ui-design-basics/designing-for-apple-watch.md)    
- - 待添加章节的中文翻译 - [App Anatomy](ui-design-basics/app-anatomy.md)   
- - 待添加章节的中文翻译 - [Glances](ui-design-basics/glances.md)   
+ - [Designing for Apple Watch](ui-design-basics/designing-for-apple-watch.md) （[zhenglu951107950](https://github.com/zhenglu951107950) done）   
+ - [App Anatomy](ui-design-basics/app-anatomy.md) （[zhenglu951107950](https://github.com/zhenglu951107950) done）  
+ - [Glances](ui-design-basics/glances.md) （[zhenglu951107950](https://github.com/zhenglu951107950) done）  
  - 待添加章节的中文翻译 - [Notifications](ui-design-basics/notifications.md)   
  - 待添加章节的中文翻译 - [Modal Sheets](ui-design-basics/modal-sheets.md)   
  - 待添加章节的中文翻译 - [Layout](ui-design-basics/layout.md)
