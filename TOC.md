@@ -1,24 +1,24 @@
 - UI Design Basics   
- - [Designing for Apple Watch](ui-design-basics/designing-for-apple-watch.md) （[zhenglu951107950](https://github.com/zhenglu951107950) done）   
- - [App Anatomy](ui-design-basics/app-anatomy.md) （[zhenglu951107950](https://github.com/zhenglu951107950) done）  
- - [Glances](ui-design-basics/glances.md) （[zhenglu951107950](https://github.com/zhenglu951107950) done）  
- - [Notifications](ui-design-basics/notifications.md) （[Lilyzhang1003](https://github.com/Lilyzhang1003) done）  
- - [Modal Sheets](ui-design-basics/modal-sheets.md) （[Lilyzhang1003](https://github.com/Lilyzhang1003) done）    
- - [Layout](ui-design-basics/layout.md) （[Lilyzhang1003](https://github.com/Lilyzhang1003) done）  
+ - 设计您的Apple Watch应用 - [Designing for Apple Watch](ui-design-basics/designing-for-apple-watch.md) （[zhenglu951107950](https://github.com/zhenglu951107950) done）   
+ - App详解 - [App Anatomy](ui-design-basics/app-anatomy.md) （[zhenglu951107950](https://github.com/zhenglu951107950) done）  
+ - 预览界面 - [Glances](ui-design-basics/glances.md) （[zhenglu951107950](https://github.com/zhenglu951107950) done）  
+ - 通知 - [Notifications](ui-design-basics/notifications.md) （[Lilyzhang1003](https://github.com/Lilyzhang1003) done）  
+ - 模态页面 - [Modal Sheets](ui-design-basics/modal-sheets.md) （[Lilyzhang1003](https://github.com/Lilyzhang1003) done）    
+ - 布局 - [Layout](ui-design-basics/layout.md) （[Lilyzhang1003](https://github.com/Lilyzhang1003) done）  
  - 待添加章节的中文翻译 - [Color and Typography](ui-design-basics/color-and-typography.md) （[andguoan](https://github.com/andguoan) 已认领）  
  - 待添加章节的中文翻译 - [Animations](ui-design-basics/animations.md) （[andguoan](https://github.com/andguoan) 已认领）
  - 待添加章节的中文翻译 - [Branding](ui-design-basics/branding.md) （[andguoan](https://github.com/andguoan) 已认领）
 - UI Elements
- - [Labels](ui-elements/labels.md) （[icodeu](https://github.com/icodeu) done）  
- - [Images](ui-elements/images.md) （[icodeu](https://github.com/icodeu) done）  
- - [Groups](ui-elements/groups.md) （[icodeu](https://github.com/icodeu) done）  
+ - 标签 - [Labels](ui-elements/labels.md) （[icodeu](https://github.com/icodeu) done）  
+ - 图像 - [Images](ui-elements/images.md) （[icodeu](https://github.com/icodeu) done）  
+ - 组- [Groups](ui-elements/groups.md) （[icodeu](https://github.com/icodeu) done）  
  - 待添加章节的中文翻译 - [Tables](ui-elements/tables.md) （[ritaaaaa](https://github.com/ritaaaaa) 已认领）
  - 待添加章节的中文翻译 - [Buttons](ui-elements/buttons.md) （[ritaaaaa](https://github.com/ritaaaaa) 已认领）
  - 待添加章节的中文翻译 - [Switches](ui-elements/switches.md) （[ritaaaaa](https://github.com/ritaaaaa) 已认领）
- - [Sliders](ui-elements/sliders.md) （[katzhb](https://github.com/katzhb) done）  
- - [Maps](ui-elements/maps.md) （[katzhb](https://github.com/katzhb) done）  
- - [Dates and Timers](ui-elements/dates-and-timers.md) （[katzhb](https://github.com/katzhb) done）  
- - [Menus](ui-elements/menus.md)  （[zqvan](https://github.com/zqvan) done）  
+ - 滑杆 - [Sliders](ui-elements/sliders.md) （[katzhb](https://github.com/katzhb) done）  
+ - 地图 - [Maps](ui-elements/maps.md) （[katzhb](https://github.com/katzhb) done）  
+ - 日期和计时器 - [Dates and Timers](ui-elements/dates-and-timers.md) （[katzhb](https://github.com/katzhb) done）  
+ - 菜单 - [Menus](ui-elements/menus.md)  （[zqvan](https://github.com/zqvan) done）  
 - Icon and Image Design
- - [Icon and Image Sizes](icon-and-image-design/icon-and-image-sizes.md)  （[zqvan](https://github.com/zqvan) done）  
- - [Menu Images](icon-and-image-design/menu-images.md)  （[zqvan](https://github.com/zqvan) done）  
+ - Icon 与图片尺寸 - [Icon and Image Sizes](icon-and-image-design/icon-and-image-sizes.md)  （[zqvan](https://github.com/zqvan) done）  
+ - 菜单图片 - [Menu Images](icon-and-image-design/menu-images.md)  （[zqvan](https://github.com/zqvan) done）  
