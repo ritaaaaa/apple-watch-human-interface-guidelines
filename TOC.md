@@ -11,7 +11,7 @@
 - UI Elements
  - 标签 - [Labels](ui-elements/labels.md) （[icodeu](https://github.com/icodeu) done）  
  - 图像 - [Images](ui-elements/images.md) （[icodeu](https://github.com/icodeu) done）  
- - 组- [Groups](ui-elements/groups.md) （[icodeu](https://github.com/icodeu) done）  
+ - 组 - [Groups](ui-elements/groups.md) （[icodeu](https://github.com/icodeu) done）  
  - 待添加章节的中文翻译 - [Tables](ui-elements/tables.md) （[ritaaaaa](https://github.com/ritaaaaa) 已认领）
  - 待添加章节的中文翻译 - [Buttons](ui-elements/buttons.md) （[ritaaaaa](https://github.com/ritaaaaa) 已认领）
  - 待添加章节的中文翻译 - [Switches](ui-elements/switches.md) （[ritaaaaa](https://github.com/ritaaaaa) 已认领）
