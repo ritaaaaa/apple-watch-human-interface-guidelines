@@ -1,15 +1,15 @@
-# Apple Watch Human Interface Guidelines 中文版
+# 滑杆 - Sliders
 
-Apple 官方文档（英文原版）：
-https://developer.apple.com/library/prerelease/ios/documentation/UserExperience/Conceptual/WatchHumanInterfaceGuidelines/index.html
+滑杆允许用户在一列不连续的值上做出调整。用户通过点击滑杆任意一端的图片来更改值的大小。
 
-## 目的
+![image](../images/sliders_settings_brightness_2x.png)
 
-翻译 Apple 官方文档，目录见文件「TOC.md」
+滑杆的特征：
+* 使用水平轨道任意一端的图片来改变滑杆值。
+* 能够通过不连续的或者连续的进度条展示当前值。
+* 通过预定的单位量来增减数值。 
+* 不会向用户展示具体数值。
 
-## 操作示例
-
-https://github.com/JikeXueyuanWiki/guide
-
+**使用自定义图片使滑杆的作用更明显。**如果你没有提供任何自定义图片，系统会展示 “ + ” 和 “ - ” 的图片。
 
 
